@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "ツキミソウ",
+  "base_artist": "Novelbright",
+  "createdAt": "2025-12-16T08:25:01.361342Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ツキミソウ - From THE FIRST TAKE",
+      "artist": "Novelbright",
+      "has_synced": true,
+      "path": "select/01_ツキミソウ_-_From_THE_FIRST_TAKE_Novelbright.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ツキミソウ",
+      "artist": "Novelbright",
+      "has_synced": true,
+      "path": "select/02_ツキミソウ_Novelbright.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ツキミソウ",
+      "artist": "Novelbright",
+      "has_synced": true,
+      "path": "select/03_ツキミソウ_Novelbright.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ツキミソウ - Evening Primrose",
+      "artist": "Novelbright",
+      "has_synced": true,
+      "path": "select/04_ツキミソウ_-_Evening_Primrose_Novelbright.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ツキミソウ",
+      "artist": "Novelbright",
+      "has_synced": false,
+      "path": "select/pl_01_ツキミソウ_Novelbright.txt"
+    }
+  ]
+}
